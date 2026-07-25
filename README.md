@@ -8,6 +8,12 @@ Experience the thrill of high-speed racing and precision drifting in a stunning 
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/09cf8807-2926-4aa4-aa73-b747dc651860
+
+---
+
 ## 🚀 Features
 
 - [x] 🏎️ **Realistic Lamborghini Driving Physics**
@@ -88,9 +94,7 @@ git clone https://github.com/Sandhit06/Lamborghini-Test-Track.git
   
 - ✅ WebGL (in-browser experience)
 
-## Demo
 
-https://github.com/user-attachments/assets/09cf8807-2926-4aa4-aa73-b747dc651860
 
 ## Still need help?
 Open an issue on our GitHub repository, and we will help you as soon as possible.
