@@ -4,7 +4,7 @@
 Experience the thrill of high-speed racing and precision drifting in a stunning <b>Unity</b>-powered Lamborghini driving simulator backed by <b>.NET</b> for scalable game logic.
 </p>
 
-![Gameplay Screenshot](https://global.discourse-cdn.com/forza/original/4X/2/0/d/20d8eecfd34afc270a754d39ac5fb05485caf4b3.webp)
+![Gameplay Screenshot](https://images.unsplash.com/photo-1570280406792-bf58b7c59247?q=80&w=1162&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ---
 
